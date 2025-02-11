@@ -14,9 +14,8 @@ The state and action spaces are:
 
 The **reward** is proportional to the duration the pole remains balanced.
 
-<div align="center">
-  <img src="https://media.tenor.com/your-gif-id.gif" alt="Cartpole GIF" width="60%">
-</div>
+
+![cart-pole-neural-network](https://media1.tenor.com/m/kff3i4Rx4wMAAAAd/cart-pole-neural-network.gif)
 
 
 ## Approach: TD3 Algorithm
